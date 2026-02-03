@@ -26,6 +26,41 @@ body {
   flex-wrap: wrap;
 }
 
+/* ===============================
+   FORCE STANDARD TOP NAVIGATION
+   (Disable greedy-nav completely)
+   =============================== */
+
+/* Kill the hamburger toggle */
+.greedy-nav__toggle,
+.navicon {
+  display: none !important;
+}
+
+/* Force all nav links to stay visible */
+.greedy-nav .visible-links {
+  display: flex !important;
+  position: static !important;
+  width: auto !important;
+  height: auto !important;
+  overflow: visible !important;
+}
+
+/* Prevent links from being moved into hidden menu */
+.greedy-nav .hidden-links {
+  display: none !important;
+}
+
+/* Ensure masthead uses full-width nav */
+.masthead__menu {
+  display: flex !important;
+}
+
+.masthead__menu-item {
+  white-space: nowrap;
+}
+
+
 
 /*@import
     "vendor/breakpoint/breakpoint",
