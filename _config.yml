@@ -20,7 +20,7 @@ url                      : https://connorparde.github.io # The base hostname & p
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "connorparde/connorparde.github.io"
 header:
-  overlay: false
+  nav: false
 
 # Site Author - The following control what appear as part of the author content on the side bar.
 #               If a field is blank the icon and link will not appear, otherwise it will be shown.
