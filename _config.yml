@@ -11,6 +11,7 @@ locale                   : "en-US"
 site_theme               : "default" # The available themes options are "default", "air", "sunrise", "mint", "dirt" and "contrast"
 title                    : "About"
 remote_theme             : mmistakes/minimal-mistakes
+greedy_nav               : false
 title_separator          : "-"
 name                     : "Connor J. Parde"
 description              : "Academic portfolio for Connor J. Parde"   # Update this with a general description of your site, this is the default if not overridden by a page
@@ -18,6 +19,8 @@ url                      : https://connorparde.github.io # The base hostname & p
                                                            # or if you already have some other page hosted on Github then use "https://[your GitHub username].github.io/[Your Repo Name]"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "connorparde/connorparde.github.io"
+header:
+  overlay: false
 
 # Site Author - The following control what appear as part of the author content on the side bar.
 #               If a field is blank the icon and link will not appear, otherwise it will be shown.
