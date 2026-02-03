@@ -23,7 +23,7 @@ repository               : "connorparde/connorparde.github.io"
 #               Additional customization can be done by editing /_includes/author-profile.html
 author:
   # Biographic information
-  avatar           : "/images/connor_headshot.jpeg"
+  avatar           : "images/connor_headshot.jpeg"
   name             : "Connor J. Parde"
   pronouns         : # example: "she/her"  
   bio              : "Computational vision researcher. Integration of psychophysics and deep learning to develop theory-driven models of visual representations in humans and machines."
