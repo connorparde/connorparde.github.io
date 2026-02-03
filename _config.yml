@@ -26,7 +26,7 @@ author:
   avatar           : "images/connor_headshot.jpeg"
   name             : "Connor J. Parde"
   pronouns         : # example: "she/her"  
-  bio              : "Computational vision researcher. Integration of psychophysics and deep learning to develop theory-driven models of visual representations in humans and machines."
+  bio:             : "Postdoctoral Research Fellow in Psychology. Computational vision researcher integrating psychophysics and deep learning."
   location         : "Nashville, Tennessee, USA"
   employer         : "Vanderbilt University"
   uri              : # URL
