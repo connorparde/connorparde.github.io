@@ -16,6 +16,17 @@ body {
   font-family: "Source Serif 4", serif;
 }
 
+/* Disable greedy navigation (hamburger menu) */
+.greedy-nav__toggle {
+  display: none !important;
+}
+
+.greedy-nav .visible-links {
+  display: flex !important;
+  flex-wrap: wrap;
+}
+
+
 /*@import
     "vendor/breakpoint/breakpoint",
 
