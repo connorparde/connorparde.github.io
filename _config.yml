@@ -24,9 +24,9 @@ repository               : "connorparde/connorparde.github.io"
 author:
   # Biographic information
   avatar           : "/images/connor_headshot.jpeg"
-  name             : "Welcome!"
+  name             : "Postdoctoral Research Associate"
   pronouns         : # example: "she/her"  
-  bio              : "Quick links"
+  bio              : "Researcher who integrates psychophysics and deep learning to develop theory-driven models of visual representations in humans and machines."
   location         : "Nashville, Tennessee, USA"
   employer         : "Vanderbilt University"
   uri              : # URL
