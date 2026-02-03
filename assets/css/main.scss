@@ -16,50 +16,6 @@ body {
   font-family: "Source Serif 4", serif;
 }
 
-/* Disable greedy navigation (hamburger menu) */
-.greedy-nav__toggle {
-  display: none !important;
-}
-
-.greedy-nav .visible-links {
-  display: flex !important;
-  flex-wrap: wrap;
-}
-
-/* ===============================
-   FORCE STANDARD TOP NAVIGATION
-   (Disable greedy-nav completely)
-   =============================== */
-
-/* Kill the hamburger toggle */
-.greedy-nav__toggle,
-.navicon {
-  display: none !important;
-}
-
-/* Force all nav links to stay visible */
-.greedy-nav .visible-links {
-  display: flex !important;
-  position: static !important;
-  width: auto !important;
-  height: auto !important;
-  overflow: visible !important;
-}
-
-/* Prevent links from being moved into hidden menu */
-.greedy-nav .hidden-links {
-  display: none !important;
-}
-
-/* Ensure masthead uses full-width nav */
-.masthead__menu {
-  display: flex !important;
-}
-
-.masthead__menu-item {
-  white-space: nowrap;
-}
-
 /* Fix missing masthead offset */
 body {
   padding-top: 0 !important;
