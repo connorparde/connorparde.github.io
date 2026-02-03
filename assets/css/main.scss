@@ -60,6 +60,15 @@ body {
   white-space: nowrap;
 }
 
+/* Fix missing masthead offset */
+body {
+  padding-top: 0 !important;
+}
+
+.page {
+  margin-top: 0 !important;
+}
+
 
 
 /*@import
