@@ -17,7 +17,7 @@ Department of Psychology, Vanderbilt University.
 **Parde, C. J.**, Colón, Y. I., Hill, M. Q., Castillo, C. D., & O'Toole, A. J. (2021).  
 *Deep learning insights for single-unit and neural population codes in face recognition.*  
 Different Minds Collaborative, Victoria University, British Columbia 
-[[Video]]([https://your-video-link-here](https://drive.google.com/file/d/1IUGQ0ikzKwhSIXBTLLzV9oLu8ScgypPG/view))
+[[Video]](https://drive.google.com/file/d/1IUGQ0ikzKwhSIXBTLLzV9oLu8ScgypPG/view)
 
 **Parde, C. J.** (2020).
 *Integrating single-unit and pattern codes in a DCNN trained for face identification.*
