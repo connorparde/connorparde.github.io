@@ -57,11 +57,11 @@ Vision Sciences Society Annual Meeting, St. Pete Beach, FL.
 **Parde, C. J.**, Colón, Y. I., Hill, M. Q., Ranjan, R., Castillo, C., & O’Toole, A. J. (2019).
 *Density of Top-Layer Codes in Deep Convolutional Neural Networks Trained for Face Identification.*
 Vision Sciences Society Annual Meeting, St. Pete Beach, FL.
-[[Poster PDF]](/assets/posters/parde_2024_likeness.pdf)
+[[Poster PDF]](/assets/posters/parde_2019_top_layer_codes.pdf)
 
 ---
 
 **Parde, C. J.**, Hu, Y., Castillo, C., Sankaranarayanan, S., & O'Toole, A. (2018).
 *Social Networks: Analyzing Social Information in Deep Convolutional Neural Networks Trained for Face Identification.*
 Vision Sciences Society Annual Meeting, St. Pete Beach, FL.
-[[Poster PDF]](/assets/posters/parde_2024_likeness.pdf)
+[[Poster PDF]](/assets/posters/parde_2018_social_traits.pdf)
