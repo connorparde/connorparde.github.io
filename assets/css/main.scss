@@ -11,6 +11,7 @@
 @import "minimal-mistakes";
 
 @import url('https://fonts.googleapis.com/css2?family=Source+Serif+4:wght@400;600&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Inter:wght@400;500;600&display=swap');
 
 body {
   font-family: "Source Serif 4", serif;
@@ -39,6 +40,23 @@ body {
   font-weight: 600;
   letter-spacing: 0.01em;
 }
+
+/* Top navigation typography */
+.custom-nav {
+  font-family: "Inter", system-ui, -apple-system, BlinkMacSystemFont, "Segoe UI", sans-serif;
+}
+
+/* Top navigation link colors */
+.custom-nav a {
+  color: #333333;          /* dark gray */
+  text-decoration: none;
+}
+
+.custom-nav a:hover {
+  color: #000000;          /* slightly darker on hover */
+  text-decoration: underline;
+}
+
 
 
 /*@import
