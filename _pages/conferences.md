@@ -50,7 +50,7 @@ Vision Sciences Society Annual Meeting, St. Pete Beach, FL.
 **Parde, C. J.**, Strehle, V. E., Banerjee, V., Hu, Y., Cavazos, J. G., Castillo, C. D., & O'Toole, A. J. (2022).
 *Comparing human and deep convolutional neural network performance on twin identification.*
 Vision Sciences Society Annual Meeting, St. Pete Beach, FL.
-[[Poster PDF]](/assets/posters/parde_2024_likeness.pdf)
+[[Poster PDF]](/assets/posters/parde_2022_twin_recognition.pdf)
 
 ---
 
