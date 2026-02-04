@@ -5,6 +5,8 @@ permalink: /
 author_profile: true
 ---
 
+**I study how visual representations are learned and organized in humans and machines, using psychophysics and deep learning as complementary theory-building tools.**
+
 I am a Postdoctoral Research Associate in the Department of Psychology at Vanderbilt University.
 
 My research integrates psychophysics and deep learning to study how visual representations emerge in humans and machines. I use computational models as theory-building tools to understand perception, representation, and generalization in human and artificial vision systems.
